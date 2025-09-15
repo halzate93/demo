@@ -1,8 +1,9 @@
-﻿
+﻿using System;
+
 public static class Program
 {
     public static void Main()
     {
-        System.Console.WriteLine("Hello, Sebitas!");
+        Console.WriteLine("Hello, Apolo!");
     }
 }
